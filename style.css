@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(43, 50, 62);
+    font-size: large;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+img {
+    width: 200px;
+}
+
+body {
+    color: (0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    color:rgb(178, 178, 178);
+}
+
+.footer::after {
+    position:fixed;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+    content: "© 2022 Isabelle Ramirez";
+    background-color: #222;
+    color: rgb(87, 87, 87);
+}
+
+.brand::before {
+    display: block;
+    top: 10px;
+    right: 10px;
+    left: 10px;
+    text-align: center;
+    content: "the house";
+    background-color: #222;
+}
+
+.desc {
+    padding: 20px;
+}
+
+/*.kitchen {
+    color:rgb(255, 255, 255);
+}*/
