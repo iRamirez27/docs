@@ -1,6 +1,6 @@
 ## The House
 
-brief desc.
+travel through an abandoned house finding clues and solving riddles to reach the end. 
 
 ## Analytics 
 
