@@ -1,6 +1,6 @@
 ## The House
 
-travel through an abandoned house finding clues and solving riddles to reach the end. 
+Travel through an abandoned house finding clues and solving riddles to reach the end. 
 
 ## Analytics 
 
